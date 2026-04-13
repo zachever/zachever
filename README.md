@@ -1,10 +1,10 @@
 ![alt](zach.png)
 
-### About Me
+# About Me
 ---
 Hello!👋 My name is Zach. I'm a 19-year-old programmer from Melbourne, Australia currently studying Computer Science. I’ve been programming for over 6 years and enjoy exploring a wide range of technological interests as they capture my curiosity.
 
-### Skills
+# Skills
 ---
 - **Fullstack Programming:** Frontends and Backends in multiple difference tech stacks
 - **Low-Level Networking:** Optimized TCP/WebSocket communication for real-time systems  
