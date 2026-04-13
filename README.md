@@ -2,7 +2,7 @@
 
 # About Me
 ---
-Hello!👋 My name is Zach. I'm a 19-year-old programmer from Melbourne, Australia currently studying Computer Science. I’ve been programming for over 6 years and enjoy exploring a wide range of technological interests as they capture my curiosity.
+Hello! My name is Zach. I'm a 19-year-old programmer from Melbourne, Australia currently studying Computer Science. I’ve been programming for over 6 years and enjoy exploring a wide range of technological interests as they capture my curiosity.
 
 # Skills
 ---
